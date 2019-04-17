@@ -67,6 +67,13 @@
       left: 200px;
       top: 50px;
   }
+  /* Experience */
+
+  .resume {
+      position: absolute;
+      left: 300px;
+      bottom: 15px;
+  }
   
 
   /* Titles */
