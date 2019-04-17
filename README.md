@@ -6,5 +6,5 @@
 
 <h4>Browse other social media accounts:</h4>
 
-<h5><a href="www.linkedin.com/in/kellinb">LinkedIn</a></h5>
+<h5><a href="https://www.linkedin.com/in/kellinb">LinkedIn</a></h5>
 <h5><a href="https://id.arduino.cc/kellinjoshua">Arduino</a></h5>
