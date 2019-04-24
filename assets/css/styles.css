@@ -35,7 +35,7 @@
   }
   #finderContainer {
       position: absolute;
-      left: 350px;
+      left: 500px;
   }
   .finder1 {
       position: absolute;
@@ -52,6 +52,10 @@
       left: 170px;
       top: 15px;
   }
+  #psychicContainer {
+      position: absolute;
+      left: 250px;
+  }
   
   .psychic1 {
       position: absolute;
@@ -66,7 +70,21 @@
   .psychic3 {
       position: absolute;
       left: 200px;
-      top: 50px;
+      top: 15px;
+  }
+  #liriContainer {
+      position: absolute;
+      left: 240px;
+      bottom: 15px;
+  }
+  .liri1 {
+      positioh: absolute;
+      top: 20px;
+  }
+  .liri3 {
+      position: absolute;
+      top: 75px;
+      right: 15px;
   }
   /* Experience */
 
