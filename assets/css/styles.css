@@ -12,7 +12,7 @@
   /* Portfolio Titles  */
   #gifContainer {
       position: absolute;
-      left: 700px;
+      left: 900px;
   }
 
   .gifTas1 {
@@ -32,7 +32,7 @@
       top: 15px;
     
   }
-  #finderContainer {
+  /* #finderContainer {
       position: absolute;
       left: 500px;
   }
@@ -85,6 +85,10 @@
       top: 75px;
       right: 15px;
   }
+  #cickyGame-container {
+
+
+  }
   .clicky1 {
       
 
@@ -95,11 +99,11 @@
 
 
   }
-  .clicky3 {
+  .clicky3 { */
 
 
 
-  }
+  
   /* Experience */
 
   .resume {
